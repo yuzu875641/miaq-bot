@@ -1,0 +1,17 @@
+{
+  "name": "chatwork-miaq-bot",
+  "version": "1.0.0",
+  "description": "A Chatwork bot to generate images from messages.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "form-data": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
